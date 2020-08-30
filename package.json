@@ -1,5 +1,5 @@
 {
-  "name": "search_engine_crawler",
+  "name": "search-engine-scraper",
   "version": "1.0.0",
   "description": "a module to scrape data from search engines.",
   "main": "index.js",
